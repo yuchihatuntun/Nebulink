@@ -5,7 +5,7 @@ An Anonymous Chat Room Power By Livekit [livekit](https://livekit.io/) And [Next
 
 ENGLISH | [中文](./README-cn.md)
 
-## Online demo
+## Online dem
 
 You can try an online demo right now at <https://chat.cwy666.eu.org/>, This demo uses the free service of [livekit cloud ](https://cloud.livekit.io) as the backend and will stop automatically when the quota runs out.
 
