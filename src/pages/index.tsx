@@ -35,7 +35,7 @@ class HomeComponent extends React.Component<WithTranslation> {
 
                             </div>
                             <div className='text-xl md:text-5xl mb-2 block sm:hidden'>
-                                Nebulink
+                                Anonymous Chat Room
                             </div>
                         </div>
                     ) : (
